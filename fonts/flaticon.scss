@@ -1,0 +1,269 @@
+$flaticon_protecta-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("../fonts/flaticon.ttf?9e1230b643b40aca6270519b97e5d8be") format("truetype"),
+url("../fonts/flaticon.woff?9e1230b643b40aca6270519b97e5d8be") format("woff"),
+url("../fonts/flaticon.woff2?9e1230b643b40aca6270519b97e5d8be") format("woff2"),
+url("../fonts/flaticon.eot?9e1230b643b40aca6270519b97e5d8be#iefix") format("embedded-opentype"),
+url("../fonts/flaticon.svg?9e1230b643b40aca6270519b97e5d8be#flaticon") format("svg");
+}
+
+i[class^="pbmit-protecta-icon-"]:before, i[class*=" pbmit-protecta-icon-"]:before {
+    font-family: "flaticon" !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "letter": "\f101",
+    "contact-us": "\f102",
+    "pointer": "\f103",
+    "clock": "\f104",
+    "quotation-mark": "\f105",
+    "security": "\f106",
+    "arc": "\f107",
+    "guard": "\f108",
+    "security-1": "\f109",
+    "security-guard": "\f10a",
+    "security-guard-1": "\f10b",
+    "door": "\f10c",
+    "padlock": "\f10d",
+    "avatar": "\f10e",
+    "vise": "\f10f",
+    "van": "\f110",
+    "toolbox": "\f111",
+    "security-guard-2": "\f112",
+    "laser-cutting-machine": "\f113",
+    "key": "\f114",
+    "guard-1": "\f115",
+    "deposit-box": "\f116",
+    "guard-2": "\f117",
+    "fingerprint": "\f118",
+    "key-programming": "\f119",
+    "padlock-1": "\f11a",
+    "key-cutter": "\f11b",
+    "lock-pick-gun": "\f11c",
+    "laser": "\f11d",
+    "latch": "\f11e",
+    "caliper": "\f11f",
+    "magnifying-glass": "\f120",
+    "oil": "\f121",
+    "padlock-2": "\f122",
+    "door-knob": "\f123",
+    "security-2": "\f124",
+    "dog": "\f125",
+    "policeman": "\f126",
+    "shield": "\f127",
+    "talkie": "\f128",
+    "uniform": "\f129",
+    "police": "\f12a",
+    "guard-3": "\f12b",
+    "star": "\f12c",
+    "time": "\f12d",
+    "maps-and-flags": "\f12e",
+    "call": "\f12f",
+    "email": "\f130",
+    "play": "\f131",
+    "star-1": "\f132",
+    "house": "\f133",
+    "cctv-camera": "\f134",
+    "security-3": "\f135",
+    "cctv": "\f136",
+    "surveillance-camera": "\f137",
+    "cctv-1": "\f138",
+    "surveillance": "\f139",
+    "security-4": "\f13a",
+    "cctv-2": "\f13b",
+    "cctv-camera-1": "\f13c",
+    "cctv-3": "\f13d",
+);
+
+.pbmit-protecta-icon-letter:before {
+    content: map-get($flaticon_protecta-map, "letter");
+}
+.pbmit-protecta-icon-contact-us:before {
+    content: map-get($flaticon_protecta-map, "contact-us");
+}
+.pbmit-protecta-icon-pointer:before {
+    content: map-get($flaticon_protecta-map, "pointer");
+}
+.pbmit-protecta-icon-clock:before {
+    content: map-get($flaticon_protecta-map, "clock");
+}
+.pbmit-protecta-icon-quotation-mark:before {
+    content: map-get($flaticon_protecta-map, "quotation-mark");
+}
+.pbmit-protecta-icon-security:before {
+    content: map-get($flaticon_protecta-map, "security");
+}
+.pbmit-protecta-icon-arc:before {
+    content: map-get($flaticon_protecta-map, "arc");
+}
+.pbmit-protecta-icon-guard:before {
+    content: map-get($flaticon_protecta-map, "guard");
+}
+.pbmit-protecta-icon-security-1:before {
+    content: map-get($flaticon_protecta-map, "security-1");
+}
+.pbmit-protecta-icon-security-guard:before {
+    content: map-get($flaticon_protecta-map, "security-guard");
+}
+.pbmit-protecta-icon-security-guard-1:before {
+    content: map-get($flaticon_protecta-map, "security-guard-1");
+}
+.pbmit-protecta-icon-door:before {
+    content: map-get($flaticon_protecta-map, "door");
+}
+.pbmit-protecta-icon-padlock:before {
+    content: map-get($flaticon_protecta-map, "padlock");
+}
+.pbmit-protecta-icon-avatar:before {
+    content: map-get($flaticon_protecta-map, "avatar");
+}
+.pbmit-protecta-icon-vise:before {
+    content: map-get($flaticon_protecta-map, "vise");
+}
+.pbmit-protecta-icon-van:before {
+    content: map-get($flaticon_protecta-map, "van");
+}
+.pbmit-protecta-icon-toolbox:before {
+    content: map-get($flaticon_protecta-map, "toolbox");
+}
+.pbmit-protecta-icon-security-guard-2:before {
+    content: map-get($flaticon_protecta-map, "security-guard-2");
+}
+.pbmit-protecta-icon-laser-cutting-machine:before {
+    content: map-get($flaticon_protecta-map, "laser-cutting-machine");
+}
+.pbmit-protecta-icon-key:before {
+    content: map-get($flaticon_protecta-map, "key");
+}
+.pbmit-protecta-icon-guard-1:before {
+    content: map-get($flaticon_protecta-map, "guard-1");
+}
+.pbmit-protecta-icon-deposit-box:before {
+    content: map-get($flaticon_protecta-map, "deposit-box");
+}
+.pbmit-protecta-icon-guard-2:before {
+    content: map-get($flaticon_protecta-map, "guard-2");
+}
+.pbmit-protecta-icon-fingerprint:before {
+    content: map-get($flaticon_protecta-map, "fingerprint");
+}
+.pbmit-protecta-icon-key-programming:before {
+    content: map-get($flaticon_protecta-map, "key-programming");
+}
+.pbmit-protecta-icon-padlock-1:before {
+    content: map-get($flaticon_protecta-map, "padlock-1");
+}
+.pbmit-protecta-icon-key-cutter:before {
+    content: map-get($flaticon_protecta-map, "key-cutter");
+}
+.pbmit-protecta-icon-lock-pick-gun:before {
+    content: map-get($flaticon_protecta-map, "lock-pick-gun");
+}
+.pbmit-protecta-icon-laser:before {
+    content: map-get($flaticon_protecta-map, "laser");
+}
+.pbmit-protecta-icon-latch:before {
+    content: map-get($flaticon_protecta-map, "latch");
+}
+.pbmit-protecta-icon-caliper:before {
+    content: map-get($flaticon_protecta-map, "caliper");
+}
+.pbmit-protecta-icon-magnifying-glass:before {
+    content: map-get($flaticon_protecta-map, "magnifying-glass");
+}
+.pbmit-protecta-icon-oil:before {
+    content: map-get($flaticon_protecta-map, "oil");
+}
+.pbmit-protecta-icon-padlock-2:before {
+    content: map-get($flaticon_protecta-map, "padlock-2");
+}
+.pbmit-protecta-icon-door-knob:before {
+    content: map-get($flaticon_protecta-map, "door-knob");
+}
+.pbmit-protecta-icon-security-2:before {
+    content: map-get($flaticon_protecta-map, "security-2");
+}
+.pbmit-protecta-icon-dog:before {
+    content: map-get($flaticon_protecta-map, "dog");
+}
+.pbmit-protecta-icon-policeman:before {
+    content: map-get($flaticon_protecta-map, "policeman");
+}
+.pbmit-protecta-icon-shield:before {
+    content: map-get($flaticon_protecta-map, "shield");
+}
+.pbmit-protecta-icon-talkie:before {
+    content: map-get($flaticon_protecta-map, "talkie");
+}
+.pbmit-protecta-icon-uniform:before {
+    content: map-get($flaticon_protecta-map, "uniform");
+}
+.pbmit-protecta-icon-police:before {
+    content: map-get($flaticon_protecta-map, "police");
+}
+.pbmit-protecta-icon-guard-3:before {
+    content: map-get($flaticon_protecta-map, "guard-3");
+}
+.pbmit-protecta-icon-star:before {
+    content: map-get($flaticon_protecta-map, "star");
+}
+.pbmit-protecta-icon-time:before {
+    content: map-get($flaticon_protecta-map, "time");
+}
+.pbmit-protecta-icon-maps-and-flags:before {
+    content: map-get($flaticon_protecta-map, "maps-and-flags");
+}
+.pbmit-protecta-icon-call:before {
+    content: map-get($flaticon_protecta-map, "call");
+}
+.pbmit-protecta-icon-email:before {
+    content: map-get($flaticon_protecta-map, "email");
+}
+.pbmit-protecta-icon-play:before {
+    content: map-get($flaticon_protecta-map, "play");
+}
+.pbmit-protecta-icon-star-1:before {
+    content: map-get($flaticon_protecta-map, "star-1");
+}
+.pbmit-protecta-icon-house:before {
+    content: map-get($flaticon_protecta-map, "house");
+}
+.pbmit-protecta-icon-cctv-camera:before {
+    content: map-get($flaticon_protecta-map, "cctv-camera");
+}
+.pbmit-protecta-icon-security-3:before {
+    content: map-get($flaticon_protecta-map, "security-3");
+}
+.pbmit-protecta-icon-cctv:before {
+    content: map-get($flaticon_protecta-map, "cctv");
+}
+.pbmit-protecta-icon-surveillance-camera:before {
+    content: map-get($flaticon_protecta-map, "surveillance-camera");
+}
+.pbmit-protecta-icon-cctv-1:before {
+    content: map-get($flaticon_protecta-map, "cctv-1");
+}
+.pbmit-protecta-icon-surveillance:before {
+    content: map-get($flaticon_protecta-map, "surveillance");
+}
+.pbmit-protecta-icon-security-4:before {
+    content: map-get($flaticon_protecta-map, "security-4");
+}
+.pbmit-protecta-icon-cctv-2:before {
+    content: map-get($flaticon_protecta-map, "cctv-2");
+}
+.pbmit-protecta-icon-cctv-camera-1:before {
+    content: map-get($flaticon_protecta-map, "cctv-camera-1");
+}
+.pbmit-protecta-icon-cctv-3:before {
+    content: map-get($flaticon_protecta-map, "cctv-3");
+}

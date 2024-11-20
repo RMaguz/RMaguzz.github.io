@@ -1,0 +1,203 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon.ttf?9e1230b643b40aca6270519b97e5d8be") format("truetype"),
+url("../fonts/flaticon.woff?9e1230b643b40aca6270519b97e5d8be") format("woff"),
+url("../fonts/flaticon.woff2?9e1230b643b40aca6270519b97e5d8be") format("woff2"),
+url("../fonts/flaticon.eot?9e1230b643b40aca6270519b97e5d8be#iefix") format("embedded-opentype"),
+url("../fonts/flaticon.svg?9e1230b643b40aca6270519b97e5d8be#flaticon") format("svg");
+}
+
+i[class^="pbmit-protecta-icon-"]:before, i[class*=" pbmit-protecta-icon-"]:before {
+    font-family: "flaticon" !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.pbmit-protecta-icon-letter:before {
+    content: "\f101";
+}
+.pbmit-protecta-icon-contact-us:before {
+    content: "\f102";
+}
+.pbmit-protecta-icon-pointer:before {
+    content: "\f103";
+}
+.pbmit-protecta-icon-clock:before {
+    content: "\f104";
+}
+.pbmit-protecta-icon-quotation-mark:before {
+    content: "\f105";
+}
+.pbmit-protecta-icon-security:before {
+    content: "\f106";
+}
+.pbmit-protecta-icon-arc:before {
+    content: "\f107";
+}
+.pbmit-protecta-icon-guard:before {
+    content: "\f108";
+}
+.pbmit-protecta-icon-security-1:before {
+    content: "\f109";
+}
+.pbmit-protecta-icon-security-guard:before {
+    content: "\f10a";
+}
+.pbmit-protecta-icon-security-guard-1:before {
+    content: "\f10b";
+}
+.pbmit-protecta-icon-door:before {
+    content: "\f10c";
+}
+.pbmit-protecta-icon-padlock:before {
+    content: "\f10d";
+}
+.pbmit-protecta-icon-avatar:before {
+    content: "\f10e";
+}
+.pbmit-protecta-icon-vise:before {
+    content: "\f10f";
+}
+.pbmit-protecta-icon-van:before {
+    content: "\f110";
+}
+.pbmit-protecta-icon-toolbox:before {
+    content: "\f111";
+}
+.pbmit-protecta-icon-security-guard-2:before {
+    content: "\f112";
+}
+.pbmit-protecta-icon-laser-cutting-machine:before {
+    content: "\f113";
+}
+.pbmit-protecta-icon-key:before {
+    content: "\f114";
+}
+.pbmit-protecta-icon-guard-1:before {
+    content: "\f115";
+}
+.pbmit-protecta-icon-deposit-box:before {
+    content: "\f116";
+}
+.pbmit-protecta-icon-guard-2:before {
+    content: "\f117";
+}
+.pbmit-protecta-icon-fingerprint:before {
+    content: "\f118";
+}
+.pbmit-protecta-icon-key-programming:before {
+    content: "\f119";
+}
+.pbmit-protecta-icon-padlock-1:before {
+    content: "\f11a";
+}
+.pbmit-protecta-icon-key-cutter:before {
+    content: "\f11b";
+}
+.pbmit-protecta-icon-lock-pick-gun:before {
+    content: "\f11c";
+}
+.pbmit-protecta-icon-laser:before {
+    content: "\f11d";
+}
+.pbmit-protecta-icon-latch:before {
+    content: "\f11e";
+}
+.pbmit-protecta-icon-caliper:before {
+    content: "\f11f";
+}
+.pbmit-protecta-icon-magnifying-glass:before {
+    content: "\f120";
+}
+.pbmit-protecta-icon-oil:before {
+    content: "\f121";
+}
+.pbmit-protecta-icon-padlock-2:before {
+    content: "\f122";
+}
+.pbmit-protecta-icon-door-knob:before {
+    content: "\f123";
+}
+.pbmit-protecta-icon-security-2:before {
+    content: "\f124";
+}
+.pbmit-protecta-icon-dog:before {
+    content: "\f125";
+}
+.pbmit-protecta-icon-policeman:before {
+    content: "\f126";
+}
+.pbmit-protecta-icon-shield:before {
+    content: "\f127";
+}
+.pbmit-protecta-icon-talkie:before {
+    content: "\f128";
+}
+.pbmit-protecta-icon-uniform:before {
+    content: "\f129";
+}
+.pbmit-protecta-icon-police:before {
+    content: "\f12a";
+}
+.pbmit-protecta-icon-guard-3:before {
+    content: "\f12b";
+}
+.pbmit-protecta-icon-star:before {
+    content: "\f12c";
+}
+.pbmit-protecta-icon-time:before {
+    content: "\f12d";
+}
+.pbmit-protecta-icon-maps-and-flags:before {
+    content: "\f12e";
+}
+.pbmit-protecta-icon-call:before {
+    content: "\f12f";
+}
+.pbmit-protecta-icon-email:before {
+    content: "\f130";
+}
+.pbmit-protecta-icon-play:before {
+    content: "\f131";
+}
+.pbmit-protecta-icon-star-1:before {
+    content: "\f132";
+}
+.pbmit-protecta-icon-house:before {
+    content: "\f133";
+}
+.pbmit-protecta-icon-cctv-camera:before {
+    content: "\f134";
+}
+.pbmit-protecta-icon-security-3:before {
+    content: "\f135";
+}
+.pbmit-protecta-icon-cctv:before {
+    content: "\f136";
+}
+.pbmit-protecta-icon-surveillance-camera:before {
+    content: "\f137";
+}
+.pbmit-protecta-icon-cctv-1:before {
+    content: "\f138";
+}
+.pbmit-protecta-icon-surveillance:before {
+    content: "\f139";
+}
+.pbmit-protecta-icon-security-4:before {
+    content: "\f13a";
+}
+.pbmit-protecta-icon-cctv-2:before {
+    content: "\f13b";
+}
+.pbmit-protecta-icon-cctv-camera-1:before {
+    content: "\f13c";
+}
+.pbmit-protecta-icon-cctv-3:before {
+    content: "\f13d";
+}
